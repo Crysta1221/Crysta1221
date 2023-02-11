@@ -12,5 +12,3 @@
 </a>
 <br>
 
-### ・Support me
-[![paypal.me/softcrystal1](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/softcrystal1) If you find any good repositories please donate to maintain them!
