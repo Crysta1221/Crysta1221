@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1721" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1755" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            180 Commits
+                            181 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="184.58698485607525" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="184.58698485607525" y="0" width="84.20698793560742" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="268.7939727916827" y="0" width="73.09278283442744" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="341.8867556261101" y="0" width="51.09980503525197" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="392.98656066136203" y="0" width="27.402935097775146" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="420.38949575913716" y="0" width="19.59825117271621" height="8" fill="#E22837"/>
-                    <rect mask="url(#languages-bar)" x="439.9877469318534" y="0" width="16.68876556302306" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="456.6765124948764" y="0" width="3.3234875051235173" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="184.61654723918133" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="184.61654723918133" y="0" width="84.19794929509052" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="268.8144965342718" y="0" width="73.08493717452893" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="341.89943370880076" y="0" width="51.094320065660725" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="392.9937537744615" y="0" width="27.399993711489653" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="420.3937474859511" y="0" width="19.596147528452796" height="8" fill="#E22837"/>
+                    <rect mask="url(#languages-bar)" x="439.98989501440394" y="0" width="16.686974218191793" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="456.6768692325957" y="0" width="3.323130767404266" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1336,6 +1336,26 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Crysta1221/crystaworld-link</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2682429</div>
+                                        <div class="message">Add G-Auth</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">Crysta1221/crystaworld-link</span>
                                     </div>
@@ -1408,20 +1428,6 @@
                       branch
                                         <span class="code">master</span>
                                         in
-                                        <span class="repo">Crysta1221/nnct-2023-c</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      repository
                                         <span class="repo">Crysta1221/nnct-2023-c</span>
                                     </div>
                                 </div>
@@ -1575,7 +1581,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 4.17m out of 125m users</span>
+                                    <span class="gh">ranked 4.17m out of 124m users</span>
                                 </div>
                                 <div class="text">Published 14 public repositories</div>
                             </div>
@@ -1732,7 +1738,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 2.41m out of 125m users</span>
+                                    <span class="gh">ranked 2.41m out of 124m users</span>
                                 </div>
                                 <div class="text">Followed by 5 users</div>
                             </div>
@@ -1845,7 +1851,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.04m out of 56.2m repositories</span>
+                                    <span class="gh">ranked 5.08m out of 52.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1930,7 +1936,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Nov 2023, 15:09:35 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Nov 2023, 16:07:01 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
