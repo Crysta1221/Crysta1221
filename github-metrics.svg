@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            182 Commits
+                            183 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="184.61654723918133" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="184.61654723918133" y="0" width="84.19794929509052" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="268.8144965342718" y="0" width="73.08493717452893" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="341.89943370880076" y="0" width="51.094320065660725" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="392.9937537744615" y="0" width="27.399993711489653" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="420.3937474859511" y="0" width="19.596147528452796" height="8" fill="#E22837"/>
-                    <rect mask="url(#languages-bar)" x="439.98989501440394" y="0" width="16.686974218191793" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="456.6768692325957" y="0" width="3.323130767404266" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="184.5341156504239" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="184.5341156504239" y="0" width="84.16035477372013" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="268.694470424144" y="0" width="73.05230463115389" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="341.74677505529786" y="0" width="51.071506368608766" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="392.8182814239067" y="0" width="27.38775956971115" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="420.2060409936178" y="0" width="19.587397816693745" height="8" fill="#E22837"/>
+                    <rect mask="url(#languages-bar)" x="439.79343881031156" y="0" width="16.679523457049687" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="456.47296226736125" y="0" width="3.527037732638727" height="8" fill="#555555"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -273,9 +273,9 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Python
+                        C
                     </div>
                 </div>
             </section>
@@ -1327,6 +1327,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">Crysta1221/nnct-2023-c</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#54f6085</div>
+                                        <div class="message">Add practice 16</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">Crysta1221/crystaworld-link</span>
                                     </div>
                                 </div>
@@ -1403,26 +1423,6 @@
                                     <div class="commit">
                                         <div class="sha">#e20b944</div>
                                         <div class="message">Add practice15(get -&gt; gets)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Crysta1221/nnct-2023-c</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#301ba7d</div>
-                                        <div class="message">Add practice15</div>
                                     </div>
                                 </div>
                             </section>
@@ -1845,7 +1845,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.05m out of 53.2m repositories</span>
+                                    <span class="gh">ranked 5.03m out of 51m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1930,7 +1930,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Nov 2023, 11:22:13 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Nov 2023, 12:07:42 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
