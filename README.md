@@ -1,7 +1,7 @@
 # Hi there!👋
 
 ## About me
-I'm an 18 year old Beginner Full Stack Engineer. I often use TypeScript, React, and Rust.
+I'm an 19 year old Beginner Full Stack Engineer. I often use TypeScript, React, and Rust.
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=bash,c,cs,rust,tauri,nodejs,js,ts,vue,nuxtjs,react,nextjs,tailwind,emotion,discordjs,express,docker,git,md,sass,sqlite&theme=dark)](https://skillicons.dev)
 ## Buy me a coffee!
